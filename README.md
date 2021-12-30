@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a 18 y/o self taught front end developer currently working on building my portfolio, and work on implementing my own BSC token. 
 <!--
 **Cadensmith1123/cadensmith1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
