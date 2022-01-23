@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a 18 y/o self taught front end developer currently working on building my portfolio, and work on implementing my own BSC token. 
+I'm a 19 y/o self taught full-Stack Devloper with a severe passion for tech, and nerd related stuff. I'm currently working on Javasrcipt, and hope to build fun captivating projects once I'm finished learning to boost my portfolio, and continue to strive to make this my lifelong career. Living in the day and age where I'm able to learn all of these interesting concepts for free, and possibly make a career out of this makes me very motivated, and hope to see out my goal in the future.
 <!--
 **Cadensmith1123/cadensmith1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
